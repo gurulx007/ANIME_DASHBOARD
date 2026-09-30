@@ -1,0 +1,501 @@
+Anime_Name,Genre,Studio,Episodes,Rating,Score,Popularity
+Bleach,Thriller,Ufotable,320,PG-13,6.3,93290
+Bleach,?,Studio Pierrot,435,PG-13,7.6,176999
+One Piece,Thriller,Mappa,693,PG-13,8.5,517972
+Bleach,Thriller,Bones,514,PG,6.2,739943
+Naruto,Action,Bones,368,PG,6.1,47269
+Demon Slayer,Adventure,Bones,626,G,5.8,955600
+Naruto,Drama,Wit Studio,123,G,7.8,510164
+Jujutsu Kaisen,Adventure,Studio Pierrot,60,PG,8.5,622166
+Death Note,?,Bones,87,R,8.7,454353
+Jujutsu Kaisen,Action,Wit Studio,776,PG-13,10.0,438190
+Bleach,Comedy,Ufotable,865,PG-13,6.5,399269
+Bleach,Fantasy,Wit Studio,263,R,5.9,579153
+Tokyo Ghoul,Comedy,Studio Pierrot,21,PG-13,6.8,864097
+Naruto,Comedy,Mappa,479,R,7.4,523318
+Jujutsu Kaisen,Sci-Fi,Bones,827,PG,9.1,825845
+Jujutsu Kaisen,Adventure,Bones,611,PG,9.0,96165
+Naruto,Thriller,Ufotable,146,PG-13,6.6,703256
+Bleach,Drama,Studio Pierrot,637,G,7.6,891475
+Bleach,Drama,Ufotable,653,R,9.8,667838
+Chainsaw Man,Drama,Ufotable,826,PG-13,7.7,748207
+Demon Slayer,Comedy,Wit Studio,726,R,7.5,820476
+Bleach,Thriller,Toei Animation,971,G,5.7,765959
+Attack on Titan,Fantasy,Ufotable,13,PG,7.7,554263
+Naruto,Adventure,Toei Animation,194,G,7.8,851720
+One Piece,Fantasy,Toei Animation,367,G,7.6,912880
+Naruto,Fantasy,Bones,116,R,9.4,615512
+Naruto,Thriller,Studio Pierrot,718,R,6.4,958933
+Attack on Titan,Thriller,Studio Pierrot,520,PG,8.8,981134
+Demon Slayer,?,Wit Studio,296,PG-13,8.2,478569
+Death Note,Drama,Studio Pierrot,505,G,5.2,140069
+Attack on Titan,Thriller,Ufotable,978,G,6.9,438567
+Attack on Titan,Comedy,Bones,55,G,7.9,287838
+Attack on Titan,Thriller,Bones,719,PG-13,8.6,208501
+Bleach,Fantasy,Studio Pierrot,922,PG,8.8,497068
+Bleach,Drama,Ufotable,289,PG-13,9.1,692977
+Attack on Titan,Adventure,Wit Studio,60,G,5.8,791955
+Dragon Ball,Action,Bones,23,R,9.3,387836
+Jujutsu Kaisen,Comedy,Bones,480,PG,5.8,732119
+Attack on Titan,Action,?,693,PG,5.1,618494
+One Piece,Action,Mappa,433,PG-13,8.8,668560
+Chainsaw Man,Comedy,Wit Studio,689,PG,6.6,687072
+Attack on Titan,Action,Mappa,44,G,9.7,895422
+Attack on Titan,Action,Studio Pierrot,695,R,8.0,444978
+?,?,Studio Pierrot,22,G,5.6,413460
+Dragon Ball,Drama,Ufotable,783,R,9.1,325439
+Death Note,Action,Toei Animation,824,PG,7.8,686686
+Demon Slayer,Sci-Fi,Wit Studio,417,G,5.3,609566
+Demon Slayer,Sci-Fi,Studio Pierrot,305,PG-13,9.6,182676
+Chainsaw Man,Sci-Fi,Toei Animation,37,R,6.8,641850
+Jujutsu Kaisen,Thriller,Ufotable,271,R,7.7,533350
+Bleach,Drama,Toei Animation,884,R,9.5,426188
+Chainsaw Man,Action,Toei Animation,135,PG-13,7.4,132041
+Death Note,Drama,Toei Animation,350,PG,9.0,618209
+One Piece,Sci-Fi,Mappa,493,G,6.2,205814
+Naruto,?,Bones,763,G,8.1,414361
+One Piece,Thriller,Ufotable,450,R,6.4,441091
+One Piece,Drama,Ufotable,792,R,9.3,659381
+Death Note,Comedy,Mappa,719,PG-13,5.7,548739
+?,Action,Studio Pierrot,244,PG,5.1,78649
+?,Action,Toei Animation,488,G,8.1,776146
+Jujutsu Kaisen,Adventure,Toei Animation,284,R,6.3,140836
+Bleach,Drama,Toei Animation,95,PG,9.2,671091
+Death Note,Comedy,Toei Animation,891,R,7.9,528322
+Bleach,Action,Toei Animation,316,G,7.7,314946
+One Piece,Comedy,Ufotable,26,R,5.8,738308
+Dragon Ball,Adventure,Studio Pierrot,463,PG-13,6.1,475539
+Death Note,Thriller,Studio Pierrot,764,PG-13,7.0,162480
+Naruto,Thriller,Ufotable,870,PG-13,6.5,335387
+Naruto,Thriller,Bones,419,PG,9.8,35726
+Chainsaw Man,Comedy,Studio Pierrot,473,PG-13,5.1,986732
+Demon Slayer,Sci-Fi,Bones,399,PG-13,5.3,173836
+Chainsaw Man,?,Wit Studio,944,R,7.8,664372
+Jujutsu Kaisen,Fantasy,Bones,109,PG,6.2,397638
+Attack on Titan,Fantasy,Mappa,453,R,6.1,162294
+Tokyo Ghoul,Thriller,Bones,846,PG-13,7.3,912739
+Death Note,Comedy,Mappa,723,PG,9.8,556942
+Tokyo Ghoul,Action,Ufotable,833,PG,6.3,47609
+Dragon Ball,Action,Studio Pierrot,815,R,8.9,305178
+Death Note,Fantasy,Bones,980,PG,8.5,802379
+Chainsaw Man,Adventure,Toei Animation,870,PG,9.0,238876
+Chainsaw Man,Sci-Fi,Ufotable,626,G,9.5,247798
+Tokyo Ghoul,Comedy,Bones,344,PG-13,5.5,758165
+Attack on Titan,Adventure,Studio Pierrot,401,R,5.6,663755
+Tokyo Ghoul,Action,Wit Studio,604,PG-13,6.0,675559
+Demon Slayer,Action,Bones,411,PG-13,6.8,123508
+Chainsaw Man,Adventure,?,189,R,7.4,590435
+Chainsaw Man,Adventure,Wit Studio,170,G,7.0,103366
+Bleach,?,Toei Animation,589,G,6.8,978718
+Dragon Ball,Adventure,Ufotable,406,PG-13,8.2,385660
+Jujutsu Kaisen,Fantasy,Wit Studio,723,R,7.2,87608
+Attack on Titan,Adventure,Bones,278,PG,6.0,970419
+Chainsaw Man,Thriller,Bones,77,R,7.8,445619
+Bleach,Fantasy,Toei Animation,138,R,7.3,586497
+Death Note,Thriller,Ufotable,89,PG,6.8,384321
+Jujutsu Kaisen,Drama,Bones,203,PG-13,9.0,137444
+?,Drama,Wit Studio,43,PG,9.6,794147
+Bleach,Comedy,Studio Pierrot,296,PG-13,8.3,950549
+Demon Slayer,Comedy,Studio Pierrot,562,PG-13,9.5,455055
+Attack on Titan,Action,Studio Pierrot,618,PG,5.1,699472
+Jujutsu Kaisen,Thriller,Studio Pierrot,32,G,7.6,394596
+?,Comedy,Studio Pierrot,212,R,7.5,164258
+Bleach,Thriller,Wit Studio,954,R,8.6,307001
+Jujutsu Kaisen,Adventure,Toei Animation,319,G,8.5,136115
+?,Comedy,Ufotable,998,PG,8.4,207121
+Jujutsu Kaisen,Thriller,?,67,R,6.4,346859
+One Piece,Adventure,Mappa,886,R,7.1,591147
+Dragon Ball,Drama,Wit Studio,595,PG,8.2,750663
+Jujutsu Kaisen,Comedy,Wit Studio,128,G,9.0,585032
+Dragon Ball,Thriller,Toei Animation,932,R,8.8,9073
+Jujutsu Kaisen,Adventure,Ufotable,80,PG-13,7.0,600909
+Naruto,Thriller,Toei Animation,794,PG,5.5,891045
+Demon Slayer,Adventure,Toei Animation,431,PG-13,5.5,786083
+Attack on Titan,Adventure,Wit Studio,192,PG-13,9.5,753793
+Chainsaw Man,Sci-Fi,Mappa,492,R,6.8,961288
+Jujutsu Kaisen,Sci-Fi,Toei Animation,377,G,7.6,900528
+Attack on Titan,Sci-Fi,Ufotable,30,PG-13,8.4,275396
+Demon Slayer,Adventure,Ufotable,928,R,7.4,649379
+Naruto,Comedy,Ufotable,517,PG-13,7.3,669385
+Naruto,Drama,Studio Pierrot,497,PG,9.0,545383
+Demon Slayer,Drama,Wit Studio,286,PG-13,7.9,111067
+Chainsaw Man,Adventure,?,93,PG-13,6.2,400473
+Chainsaw Man,Drama,Ufotable,951,R,5.8,700611
+Attack on Titan,Comedy,Wit Studio,172,G,9.3,685796
+Demon Slayer,Fantasy,Studio Pierrot,924,PG-13,9.5,375091
+Dragon Ball,Sci-Fi,Bones,172,PG,9.2,595833
+Tokyo Ghoul,Adventure,Bones,497,PG,5.6,773356
+Demon Slayer,Action,Ufotable,702,G,7.9,483712
+Death Note,Adventure,Mappa,356,PG-13,9.8,13267
+Naruto,Fantasy,Wit Studio,317,PG,7.9,588204
+Dragon Ball,Comedy,Toei Animation,201,PG-13,7.3,405273
+Chainsaw Man,Drama,Mappa,269,G,5.6,634408
+One Piece,Sci-Fi,Ufotable,915,R,8.3,155157
+Naruto,Drama,?,298,PG,5.9,532490
+Bleach,Adventure,Mappa,558,PG,8.1,334696
+Bleach,Thriller,Studio Pierrot,837,G,9.2,317028
+Tokyo Ghoul,Thriller,Mappa,759,R,7.8,371527
+Jujutsu Kaisen,Drama,Toei Animation,495,PG-13,9.2,585962
+Bleach,?,Wit Studio,469,R,8.7,368652
+Jujutsu Kaisen,Thriller,Wit Studio,432,R,6.5,236075
+Dragon Ball,Adventure,Wit Studio,495,G,6.0,668067
+Death Note,Adventure,Ufotable,316,PG,8.8,748396
+Chainsaw Man,?,Wit Studio,881,G,9.0,762843
+Naruto,Sci-Fi,Toei Animation,975,PG-13,9.6,766395
+Demon Slayer,Fantasy,Studio Pierrot,793,PG,9.1,774923
+Tokyo Ghoul,Sci-Fi,Mappa,113,G,6.8,446214
+Dragon Ball,Action,Wit Studio,635,PG-13,6.5,590146
+Demon Slayer,Drama,Mappa,166,PG-13,8.2,877324
+Chainsaw Man,Sci-Fi,Bones,801,PG,5.6,513669
+Tokyo Ghoul,Fantasy,Mappa,694,PG,8.0,657083
+Dragon Ball,Drama,Toei Animation,720,PG-13,7.0,190583
+Bleach,?,Mappa,965,R,7.3,48584
+Attack on Titan,Fantasy,Studio Pierrot,547,PG-13,7.5,541896
+Dragon Ball,Adventure,Mappa,289,PG-13,7.9,232814
+?,Drama,?,776,PG,7.4,5079
+Attack on Titan,Adventure,Ufotable,674,PG-13,8.7,611382
+Bleach,Thriller,Studio Pierrot,804,G,7.8,830058
+Attack on Titan,Thriller,Bones,54,G,7.7,198920
+?,Adventure,Toei Animation,100,R,5.2,868768
+Attack on Titan,Thriller,Bones,735,G,7.1,405901
+One Piece,Drama,Studio Pierrot,822,PG,8.7,343668
+Dragon Ball,Sci-Fi,?,523,PG,9.5,570478
+Dragon Ball,Fantasy,Bones,510,PG,6.3,711404
+Tokyo Ghoul,Drama,Bones,219,PG,6.0,728526
+Bleach,?,Toei Animation,545,G,8.2,308831
+Attack on Titan,Thriller,Ufotable,884,PG,6.5,998641
+Dragon Ball,?,Bones,354,R,7.3,189728
+?,?,Bones,356,PG,5.6,261996
+Naruto,Fantasy,Wit Studio,549,G,7.3,234850
+Bleach,Comedy,Wit Studio,263,PG,5.4,186287
+Bleach,Drama,Wit Studio,305,PG,9.7,257130
+?,?,Studio Pierrot,641,G,6.0,266641
+Death Note,Drama,Studio Pierrot,604,R,7.2,247318
+Attack on Titan,Drama,Studio Pierrot,606,PG-13,7.8,788712
+One Piece,Action,Ufotable,563,PG-13,5.8,416769
+Tokyo Ghoul,Comedy,Ufotable,217,G,8.9,173967
+Jujutsu Kaisen,Drama,Toei Animation,777,R,6.5,96385
+Death Note,Drama,Bones,403,PG-13,5.5,474475
+Dragon Ball,Fantasy,Toei Animation,573,R,8.2,721875
+Demon Slayer,Fantasy,Mappa,448,PG-13,9.4,308884
+Jujutsu Kaisen,Sci-Fi,Ufotable,933,PG-13,5.1,464591
+Jujutsu Kaisen,Adventure,?,704,R,8.7,278503
+?,Comedy,Studio Pierrot,887,PG,9.5,487609
+One Piece,Sci-Fi,Wit Studio,925,PG-13,9.6,769723
+?,Action,Ufotable,241,PG-13,8.6,59637
+Jujutsu Kaisen,Drama,Ufotable,580,PG-13,5.2,837177
+?,Action,Studio Pierrot,193,G,9.5,326389
+One Piece,Sci-Fi,Mappa,155,PG,5.2,840154
+Naruto,Thriller,Wit Studio,744,PG-13,8.3,570235
+Death Note,Fantasy,Toei Animation,936,PG-13,5.1,858976
+Chainsaw Man,Drama,Mappa,898,PG,6.8,166985
+Death Note,Drama,?,949,PG,9.6,99148
+Dragon Ball,Comedy,Wit Studio,661,PG,7.2,669891
+Death Note,Drama,Studio Pierrot,440,R,5.5,153261
+?,Thriller,Studio Pierrot,816,PG,5.5,111906
+Death Note,Comedy,Studio Pierrot,690,PG,8.7,556387
+Naruto,Fantasy,Mappa,311,R,9.4,641472
+Attack on Titan,Sci-Fi,Wit Studio,545,G,8.6,433652
+Tokyo Ghoul,Fantasy,Toei Animation,897,G,7.5,830103
+Dragon Ball,Comedy,Ufotable,758,PG,5.2,487203
+Naruto,Thriller,Toei Animation,882,G,5.9,107549
+Jujutsu Kaisen,Thriller,Mappa,241,R,9.8,279538
+Demon Slayer,Thriller,Ufotable,230,PG,7.9,302550
+Jujutsu Kaisen,Action,Bones,769,G,5.1,660083
+Attack on Titan,Thriller,Bones,625,PG,5.7,410280
+One Piece,Adventure,Toei Animation,841,PG,7.2,851823
+Demon Slayer,Adventure,Wit Studio,80,PG-13,7.9,310141
+Bleach,Fantasy,Bones,803,PG,9.0,537977
+Bleach,Adventure,?,378,PG,8.5,893797
+Attack on Titan,Adventure,Mappa,183,PG-13,5.9,312731
+Jujutsu Kaisen,Drama,Wit Studio,42,PG,9.9,351689
+Death Note,Comedy,Mappa,862,G,7.2,641368
+Naruto,Action,Studio Pierrot,330,R,5.9,751833
+Dragon Ball,Fantasy,?,709,PG-13,7.0,550550
+Death Note,Comedy,Wit Studio,971,PG-13,9.8,127651
+?,Action,Studio Pierrot,269,R,5.9,778034
+Bleach,Drama,Bones,294,G,9.9,701301
+Demon Slayer,Action,Studio Pierrot,314,G,5.6,320271
+Naruto,Fantasy,Toei Animation,843,PG,9.1,541366
+Tokyo Ghoul,Drama,Ufotable,680,PG-13,8.9,300017
+Tokyo Ghoul,Thriller,Bones,190,PG,9.7,18604
+Death Note,Drama,?,644,R,8.8,633578
+Demon Slayer,?,Mappa,606,PG,5.9,619803
+Tokyo Ghoul,Fantasy,Wit Studio,352,G,5.0,562206
+Dragon Ball,Action,Studio Pierrot,244,G,9.4,993106
+Jujutsu Kaisen,Sci-Fi,Ufotable,840,PG,8.8,124309
+Chainsaw Man,Thriller,Wit Studio,732,PG,8.5,382332
+Dragon Ball,Adventure,Mappa,906,PG-13,5.6,894579
+Bleach,Adventure,Bones,634,R,5.7,314822
+Tokyo Ghoul,Action,Ufotable,634,R,7.4,32041
+Naruto,Drama,Studio Pierrot,441,R,7.8,91789
+Bleach,Fantasy,Bones,285,R,7.8,764376
+Bleach,Fantasy,Studio Pierrot,680,PG,7.1,934725
+Naruto,Thriller,Studio Pierrot,763,PG-13,8.8,931281
+Dragon Ball,Sci-Fi,Toei Animation,243,PG,7.2,849338
+Bleach,Fantasy,Bones,711,G,9.1,991231
+Chainsaw Man,Comedy,Bones,860,PG,7.4,138432
+Naruto,Adventure,Ufotable,730,R,6.0,281276
+Attack on Titan,?,Wit Studio,945,G,8.7,479756
+?,Comedy,Bones,661,PG-13,9.0,694547
+?,Drama,Bones,295,PG,6.5,128089
+One Piece,Fantasy,Wit Studio,370,PG,5.3,457164
+One Piece,Comedy,?,897,PG-13,5.2,353575
+Demon Slayer,Comedy,Wit Studio,719,PG-13,7.8,890970
+Tokyo Ghoul,?,Wit Studio,756,PG-13,7.4,946388
+One Piece,Sci-Fi,Wit Studio,950,R,6.9,820796
+Attack on Titan,Action,Toei Animation,922,PG-13,9.0,78005
+Tokyo Ghoul,Thriller,Studio Pierrot,893,R,5.8,464641
+Death Note,Sci-Fi,Mappa,206,R,8.6,909384
+Tokyo Ghoul,Thriller,Studio Pierrot,989,R,8.3,370232
+Jujutsu Kaisen,Action,?,32,R,7.9,709415
+One Piece,Adventure,Wit Studio,780,R,5.7,719559
+?,Sci-Fi,Studio Pierrot,497,G,6.0,469249
+?,Comedy,Bones,93,R,6.0,688478
+Dragon Ball,Fantasy,Mappa,49,G,8.9,885093
+Bleach,Comedy,Wit Studio,272,PG,5.3,887345
+?,Sci-Fi,Mappa,750,PG,7.8,869559
+Jujutsu Kaisen,Fantasy,Wit Studio,612,R,8.3,967272
+Naruto,Comedy,Ufotable,513,R,9.4,419771
+Jujutsu Kaisen,Adventure,?,264,G,5.5,410839
+Tokyo Ghoul,Adventure,Mappa,212,G,8.0,409793
+Bleach,Thriller,Toei Animation,889,G,9.6,508808
+Attack on Titan,Comedy,Ufotable,444,PG,9.4,778118
+Naruto,Thriller,Mappa,992,G,5.5,739868
+Demon Slayer,Fantasy,Ufotable,830,R,9.9,85008
+Chainsaw Man,Fantasy,Wit Studio,392,G,5.0,103105
+Dragon Ball,Thriller,Wit Studio,647,PG-13,9.3,189301
+Jujutsu Kaisen,Drama,Studio Pierrot,291,PG,7.7,136726
+Death Note,Comedy,Bones,724,PG-13,9.7,755680
+Bleach,Action,?,283,G,6.1,185692
+Naruto,Thriller,Bones,302,PG,7.0,745999
+Attack on Titan,Action,Studio Pierrot,821,G,6.5,697724
+Chainsaw Man,Thriller,Ufotable,264,PG,6.5,656671
+One Piece,Action,Toei Animation,426,R,6.1,192989
+Bleach,Fantasy,Toei Animation,374,PG-13,5.8,728138
+Dragon Ball,Action,Studio Pierrot,359,R,7.5,719568
+?,Adventure,Wit Studio,271,G,9.9,829920
+Demon Slayer,Fantasy,Wit Studio,344,PG,9.9,816948
+Naruto,Action,Mappa,851,R,8.8,471888
+Bleach,Drama,Mappa,169,R,7.0,684624
+Naruto,Action,Ufotable,597,G,8.1,725580
+?,Drama,Mappa,57,G,8.2,540907
+Tokyo Ghoul,Sci-Fi,Toei Animation,143,PG-13,9.0,6490
+Dragon Ball,Drama,Studio Pierrot,164,PG-13,6.0,310112
+?,Adventure,?,881,R,9.2,119390
+Death Note,Sci-Fi,Toei Animation,813,G,8.9,516453
+Naruto,Drama,Wit Studio,848,PG-13,8.8,643062
+Dragon Ball,Adventure,Toei Animation,886,PG-13,9.0,277605
+Chainsaw Man,Fantasy,Studio Pierrot,121,PG-13,9.1,349297
+Death Note,Comedy,Toei Animation,931,PG-13,6.5,833723
+Dragon Ball,Thriller,Wit Studio,646,G,7.4,731150
+Naruto,Adventure,Studio Pierrot,897,G,5.4,624390
+Bleach,Thriller,Studio Pierrot,211,G,6.1,770208
+Dragon Ball,Comedy,Ufotable,182,PG-13,7.4,985558
+Attack on Titan,Action,Bones,374,R,6.3,787214
+Demon Slayer,Comedy,Bones,772,PG-13,6.0,921652
+Tokyo Ghoul,Sci-Fi,?,574,PG,8.6,410770
+?,Fantasy,Mappa,296,R,9.3,247829
+Dragon Ball,Drama,Studio Pierrot,957,PG-13,9.5,44696
+Demon Slayer,?,Studio Pierrot,590,PG,9.2,703607
+Chainsaw Man,Sci-Fi,Mappa,296,PG-13,8.3,536611
+Attack on Titan,Thriller,?,66,G,5.9,763604
+Tokyo Ghoul,Action,Wit Studio,881,PG-13,5.8,180060
+Death Note,Adventure,Wit Studio,431,PG,5.9,698488
+Demon Slayer,Sci-Fi,Studio Pierrot,391,PG-13,9.9,843876
+Naruto,Adventure,Mappa,898,PG-13,6.1,243009
+Jujutsu Kaisen,Sci-Fi,Mappa,498,PG,6.7,956739
+Chainsaw Man,Thriller,Bones,799,G,9.3,238424
+Chainsaw Man,Thriller,Studio Pierrot,553,G,9.3,607312
+Demon Slayer,Drama,Ufotable,544,PG,9.3,529041
+One Piece,Comedy,Ufotable,589,PG-13,5.5,256209
+Dragon Ball,Adventure,Studio Pierrot,135,R,6.6,124422
+Jujutsu Kaisen,Adventure,Wit Studio,177,G,5.9,333225
+Tokyo Ghoul,Adventure,Mappa,886,PG,9.8,435038
+Death Note,Comedy,Wit Studio,142,PG,6.9,721605
+Demon Slayer,Drama,Ufotable,904,G,5.8,141264
+Attack on Titan,Adventure,Ufotable,549,PG-13,9.6,935872
+Bleach,Fantasy,Ufotable,365,PG,5.2,520221
+Death Note,Drama,Wit Studio,498,PG,9.4,516494
+Chainsaw Man,Action,Mappa,702,PG-13,5.6,489138
+Jujutsu Kaisen,Comedy,Studio Pierrot,642,R,5.7,453624
+Bleach,Fantasy,Ufotable,888,R,6.7,357196
+Attack on Titan,Sci-Fi,Mappa,272,G,9.9,268510
+Death Note,Fantasy,Wit Studio,816,PG,7.9,495593
+Naruto,Comedy,Toei Animation,660,R,9.2,735984
+Naruto,Adventure,Wit Studio,481,G,5.2,132972
+Jujutsu Kaisen,Action,Toei Animation,838,G,9.8,948672
+Jujutsu Kaisen,Sci-Fi,?,172,R,9.7,127236
+Bleach,Action,Studio Pierrot,669,PG-13,6.5,8186
+Jujutsu Kaisen,Comedy,Bones,32,PG-13,6.1,19445
+Jujutsu Kaisen,Drama,Toei Animation,402,PG-13,9.3,978435
+Chainsaw Man,Comedy,Mappa,143,G,9.9,475223
+Bleach,Drama,Wit Studio,961,G,8.0,769427
+Tokyo Ghoul,Adventure,Bones,458,G,8.0,130144
+Jujutsu Kaisen,Fantasy,Wit Studio,479,R,5.9,919225
+Bleach,Action,Toei Animation,314,R,7.7,445028
+Attack on Titan,Sci-Fi,Bones,438,G,6.7,470501
+Jujutsu Kaisen,Adventure,Ufotable,66,R,5.7,20853
+Chainsaw Man,Drama,Wit Studio,759,R,5.7,561435
+Death Note,?,Wit Studio,924,G,9.8,189426
+Jujutsu Kaisen,Thriller,Wit Studio,988,R,10.0,846799
+Demon Slayer,?,?,253,PG,7.3,885947
+Attack on Titan,Adventure,Studio Pierrot,738,PG-13,8.4,916763
+Naruto,Sci-Fi,Toei Animation,365,R,8.4,312843
+Demon Slayer,Thriller,Ufotable,132,PG,5.7,95542
+Chainsaw Man,Sci-Fi,Mappa,605,PG-13,5.5,42202
+Dragon Ball,Comedy,?,474,PG-13,7.8,935041
+Bleach,Comedy,Studio Pierrot,714,G,7.8,219582
+Demon Slayer,Comedy,Studio Pierrot,29,PG-13,6.6,834156
+Death Note,Fantasy,Toei Animation,747,R,9.2,56002
+Dragon Ball,Sci-Fi,Mappa,601,PG-13,8.0,7868
+Dragon Ball,Thriller,Toei Animation,519,G,5.1,803736
+Tokyo Ghoul,Drama,Mappa,877,PG-13,9.4,575321
+One Piece,Thriller,Wit Studio,676,R,7.3,637335
+Death Note,Comedy,Wit Studio,448,PG,7.3,595561
+Naruto,?,Bones,874,PG-13,8.4,145346
+?,Sci-Fi,Toei Animation,82,R,5.6,203962
+Chainsaw Man,Comedy,Bones,97,PG,8.6,359782
+Chainsaw Man,Sci-Fi,Wit Studio,379,R,7.6,497947
+Chainsaw Man,Drama,Bones,523,PG,6.8,583000
+Chainsaw Man,Drama,Toei Animation,37,PG,5.2,473495
+Tokyo Ghoul,Action,Bones,972,PG-13,8.9,274143
+Death Note,Fantasy,Toei Animation,370,G,8.0,121107
+Bleach,Drama,?,63,G,9.4,690335
+Dragon Ball,Adventure,Studio Pierrot,78,G,8.7,42456
+Naruto,Adventure,Mappa,671,PG-13,5.3,347235
+Death Note,Sci-Fi,Toei Animation,473,G,5.1,236596
+Attack on Titan,Thriller,Studio Pierrot,851,G,7.6,700247
+Dragon Ball,Action,Toei Animation,93,PG,9.0,952834
+Jujutsu Kaisen,Comedy,Studio Pierrot,375,G,7.1,72395
+Bleach,Comedy,Mappa,984,PG,6.0,250006
+Attack on Titan,Drama,Bones,594,R,9.4,381531
+Chainsaw Man,Sci-Fi,Ufotable,708,PG,7.8,536407
+Dragon Ball,Fantasy,Mappa,510,PG-13,8.9,145834
+Dragon Ball,Drama,Wit Studio,955,R,9.6,717657
+Naruto,?,Studio Pierrot,359,PG-13,9.7,986254
+Naruto,Drama,Bones,338,PG-13,5.5,864842
+Bleach,Drama,Ufotable,90,R,8.3,152125
+Demon Slayer,Fantasy,Bones,765,PG,5.5,327076
+Jujutsu Kaisen,Action,Bones,14,PG-13,5.7,771685
+Tokyo Ghoul,Adventure,Studio Pierrot,608,PG-13,9.3,178747
+Demon Slayer,Thriller,?,293,PG,8.1,448159
+Demon Slayer,Drama,Wit Studio,338,R,7.9,713171
+Tokyo Ghoul,Action,Studio Pierrot,715,PG,7.8,30241
+Death Note,Comedy,Ufotable,101,G,8.5,497431
+Dragon Ball,?,Mappa,65,PG-13,7.9,142879
+Bleach,Fantasy,Studio Pierrot,132,R,8.0,325735
+Attack on Titan,Fantasy,Toei Animation,205,PG-13,7.3,59121
+Jujutsu Kaisen,Thriller,Mappa,253,R,7.9,693262
+?,Comedy,?,745,PG,6.9,984351
+Tokyo Ghoul,Fantasy,Ufotable,739,PG-13,5.8,90740
+Dragon Ball,Action,Mappa,742,PG-13,5.3,110551
+Naruto,?,Wit Studio,185,PG,5.8,168372
+Bleach,Sci-Fi,Toei Animation,30,G,5.9,58687
+Death Note,?,Ufotable,693,R,9.2,324413
+One Piece,Comedy,?,410,PG-13,9.6,635538
+Bleach,Adventure,Studio Pierrot,131,G,5.5,979295
+Death Note,Sci-Fi,Bones,370,R,8.3,146384
+One Piece,Fantasy,Mappa,427,R,9.5,772273
+Tokyo Ghoul,Drama,Studio Pierrot,922,PG,8.8,961585
+Jujutsu Kaisen,Action,Toei Animation,764,G,8.5,351290
+Tokyo Ghoul,Comedy,Toei Animation,688,R,8.4,932334
+Demon Slayer,Adventure,Toei Animation,569,PG-13,6.0,563318
+Attack on Titan,Drama,?,240,R,7.9,80124
+?,?,Ufotable,152,R,5.4,828681
+Naruto,Thriller,Studio Pierrot,448,R,8.1,593273
+Jujutsu Kaisen,Adventure,Studio Pierrot,930,R,7.5,861498
+Bleach,Drama,Ufotable,411,R,7.2,887983
+Tokyo Ghoul,?,Toei Animation,946,G,8.2,271044
+Jujutsu Kaisen,Comedy,Ufotable,805,G,6.4,343400
+Naruto,Thriller,Toei Animation,888,PG,9.6,12156
+Jujutsu Kaisen,Comedy,Studio Pierrot,821,R,6.9,157293
+Chainsaw Man,Comedy,Ufotable,108,PG-13,7.4,60730
+Tokyo Ghoul,Action,Bones,810,R,6.9,701263
+?,Sci-Fi,Ufotable,127,R,9.8,413663
+Naruto,Drama,Wit Studio,441,R,8.0,157465
+One Piece,Drama,Bones,61,G,6.5,795218
+Dragon Ball,Adventure,Studio Pierrot,463,PG-13,7.7,965086
+Attack on Titan,?,?,15,PG-13,9.1,34760
+Dragon Ball,Action,Ufotable,909,PG-13,7.1,835745
+Death Note,Adventure,Ufotable,792,PG,7.8,282626
+One Piece,Adventure,Studio Pierrot,247,R,7.6,614772
+Attack on Titan,Sci-Fi,Ufotable,837,PG-13,5.5,596336
+Chainsaw Man,Fantasy,Mappa,658,PG,7.0,551769
+Tokyo Ghoul,Adventure,Studio Pierrot,51,PG,7.2,458769
+?,Adventure,Bones,748,G,8.0,822407
+Death Note,Adventure,Toei Animation,902,PG-13,8.4,776377
+Demon Slayer,Fantasy,Bones,376,R,8.5,135293
+Tokyo Ghoul,Thriller,Toei Animation,61,G,6.4,23476
+Jujutsu Kaisen,Sci-Fi,Studio Pierrot,786,PG-13,6.5,173902
+Bleach,Thriller,Studio Pierrot,61,R,5.4,447351
+Tokyo Ghoul,Drama,Studio Pierrot,590,PG-13,6.3,205926
+Naruto,Drama,Bones,800,R,9.4,16527
+Dragon Ball,?,Bones,433,PG-13,7.6,274018
+?,?,Wit Studio,431,PG-13,7.5,159723
+Chainsaw Man,Adventure,Mappa,50,PG-13,9.7,756373
+Dragon Ball,Drama,Bones,662,PG-13,9.3,575027
+Tokyo Ghoul,Adventure,Studio Pierrot,112,PG-13,7.1,418632
+Chainsaw Man,Drama,Wit Studio,678,R,8.3,434872
+Demon Slayer,Sci-Fi,Bones,585,PG,6.0,238348
+Death Note,Adventure,Bones,692,PG,6.1,608997
+Bleach,Adventure,Ufotable,73,PG,8.7,952463
+Dragon Ball,Action,Mappa,561,PG,7.8,23712
+Chainsaw Man,Adventure,Ufotable,438,G,5.6,134856
+Demon Slayer,Fantasy,Ufotable,924,R,9.3,733855
+Dragon Ball,Sci-Fi,Mappa,497,PG,9.0,755431
+Death Note,Adventure,Ufotable,54,R,7.0,760095
+Naruto,Sci-Fi,Toei Animation,112,PG-13,6.8,110818
+Naruto,Sci-Fi,Mappa,147,G,7.0,251057
+Jujutsu Kaisen,Thriller,Bones,783,PG,7.8,296302
+Jujutsu Kaisen,Comedy,Toei Animation,933,PG,5.5,836212
+Demon Slayer,Sci-Fi,Toei Animation,59,R,8.1,94795
+Tokyo Ghoul,Sci-Fi,Ufotable,689,PG-13,5.5,487094
+Tokyo Ghoul,Drama,Studio Pierrot,124,PG,9.3,746498
+One Piece,Thriller,Bones,418,R,5.9,736560
+Jujutsu Kaisen,Drama,Bones,334,PG-13,8.6,947963
+Chainsaw Man,Fantasy,?,681,PG-13,9.3,188608
+One Piece,Fantasy,Bones,143,R,8.1,893964
+Attack on Titan,Adventure,Toei Animation,963,PG-13,5.5,321319
+Chainsaw Man,Thriller,Wit Studio,76,R,8.2,113366
+Naruto,Adventure,Toei Animation,984,PG,5.4,295329
+Death Note,Action,Bones,553,R,8.8,257290
+Tokyo Ghoul,Adventure,Toei Animation,783,PG,6.8,499556
+Tokyo Ghoul,Thriller,Mappa,910,PG-13,9.9,581184
+One Piece,Fantasy,Wit Studio,996,G,6.0,120712
+Bleach,Thriller,Studio Pierrot,602,G,9.6,849535
+Jujutsu Kaisen,Drama,Mappa,448,R,5.9,271956
+Attack on Titan,Sci-Fi,Mappa,941,G,6.2,337010
+Chainsaw Man,Thriller,Ufotable,135,G,8.0,867301
+Demon Slayer,Comedy,Toei Animation,499,R,7.1,939875
+Dragon Ball,Drama,Mappa,810,G,9.1,296454
+Jujutsu Kaisen,Action,Ufotable,658,PG-13,9.8,928242
+Demon Slayer,Fantasy,Wit Studio,486,PG-13,6.4,795947
+Attack on Titan,Thriller,Mappa,609,G,8.7,455379
+Demon Slayer,Thriller,Ufotable,167,PG,6.8,890422
+Jujutsu Kaisen,Fantasy,Wit Studio,199,R,5.3,432147
+Bleach,Fantasy,Bones,142,PG-13,6.0,735747
+Jujutsu Kaisen,Sci-Fi,Bones,572,G,8.9,227012
+Dragon Ball,Fantasy,Ufotable,919,PG-13,6.4,226649
+Chainsaw Man,Adventure,Studio Pierrot,798,PG-13,9.7,866950
+One Piece,Fantasy,Ufotable,568,PG,7.1,43483
+Attack on Titan,Drama,Bones,421,G,7.0,824263
+Dragon Ball,Drama,Studio Pierrot,386,G,5.7,433363
+Dragon Ball,Adventure,?,714,G,5.0,250719
+Chainsaw Man,Comedy,Wit Studio,298,G,5.4,524536
+One Piece,Action,Wit Studio,767,PG-13,6.2,811164
+Death Note,Adventure,Bones,204,PG-13,9.4,60142
+Naruto,Comedy,Wit Studio,854,R,8.9,251655
+Bleach,Fantasy,Studio Pierrot,725,PG-13,7.4,523552
+Death Note,Thriller,Toei Animation,335,PG,8.9,619910
+Demon Slayer,Sci-Fi,Ufotable,81,G,5.9,892834
+One Piece,Thriller,Bones,729,R,8.3,845523
+Naruto,Fantasy,Ufotable,798,G,8.0,466250
+Jujutsu Kaisen,Action,Bones,137,G,8.2,891817
+Jujutsu Kaisen,Drama,Toei Animation,130,G,7.7,37174
+Bleach,Drama,Wit Studio,350,PG,8.2,173171
+Dragon Ball,Drama,Studio Pierrot,281,R,7.2,730436
+Death Note,Sci-Fi,Toei Animation,786,G,9.7,90596
+Death Note,Comedy,Studio Pierrot,798,PG-13,6.2,261325
+Bleach,Comedy,Wit Studio,562,PG-13,8.0,735708
+Death Note,Action,Mappa,954,PG,7.4,428031
